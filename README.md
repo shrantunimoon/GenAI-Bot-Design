@@ -23,10 +23,6 @@ python rag/embed.py
 python app.py
 
 ## 🧪 Example
-/ask What is leave policy?
 
-## 📸 Demo
-(Add screenshot)
+ask What is leave policy?
 
-## 👩‍💻 Author
-Shrantuni Moon
