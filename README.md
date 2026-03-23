@@ -24,5 +24,9 @@ python app.py
 
 ## 🧪 Example
 
-ask What is leave policy?
+/ask How many leaves do employees get?
+
+/ask Can I work from home daily?
+
+/ask What happens if I share my password?
 
