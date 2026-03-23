@@ -1,0 +1,14 @@
+genai-telegram-bot/
+│── app.py
+│── requirements.txt
+│── README.md
+│── .gitignore
+│
+├── rag/
+│   ├── embed.py
+│   ├── retrieve.py
+│   ├── db.sqlite   (optional to include)
+│
+├── data/
+│   ├── doc1.md
+│   ├── doc2.md
